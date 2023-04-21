@@ -15,5 +15,5 @@ echo "----------separation line---------"
 # change deafult shell to zsh
 chsh -s $(which zsh)
 # update theme of ohmyzsh
-echo "\n#Update theme" >> .zshrc
-echo 'ZSH_THEME="powerlevel10k/powerlevel10k"' >> .zshrc
+rm .zshrc
+wget https://raw.githubusercontent.com/Angeloyo/boilerplates/main/scripts/powerlevel10k/.zshrc
