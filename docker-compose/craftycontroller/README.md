@@ -1,2 +1,3 @@
-Default user: admin
-Default password: crafty
+## Default user: admin
+
+## Default password: crafty
