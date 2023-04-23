@@ -8,7 +8,7 @@ services:
     environment:
         - TZ=Europe/Madrid
     ports:
-        - "8000:8000" # HTTP
+        - "8001:8000" # HTTP (in my case 8000 used by portainer)
         - "8443:8443" # HTTPS
         - "8123:8123" # DYNMAP
         - "19132:19132/udp" # BEDROCK
