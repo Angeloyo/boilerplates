@@ -7,4 +7,5 @@ curl -O https://kasm-static-content.s3.amazonaws.com/kasm_release_1.13.0.002947.
 
 tar -xf kasm_release_1.13.0.002947.tar.gz
 
-sudo bash kasm_release/install.sh
+sudo bash kasm_release/install.sh 
+# default web port is 443, change it adding -L <newport>
