@@ -1,3 +1,6 @@
+# warning: Homebridge does not work when running in Docker
+# for Mac or Docker for Windows
+# https://github.com/homebridge/homebridge/wiki/Install-Homebridge-on-Docker
 version: '3'
 services:
   homebridge:
