@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# wget https://raw.githubusercontent.com/Angeloyo/boilerplates/main/scripts/powerlevel10k/installpowerlevel10k.sh -O /tmp/install.sh; bash /tmp/install.sh
+
 # Go to home directory
 cd ~
 # instal git and zsh
