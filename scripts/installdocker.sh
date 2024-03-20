@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# INSTALL DOCKER ON UBUNTU
+
 # wget https://raw.githubusercontent.com/Angeloyo/boilerplates/main/scripts/installdocker.sh -O /tmp/install.sh; bash /tmp/install.sh
 
 #install docker ubuntu 
